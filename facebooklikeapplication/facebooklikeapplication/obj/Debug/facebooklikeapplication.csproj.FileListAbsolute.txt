@@ -1,0 +1,9 @@
+D:\C# Coding\facebooklikeapplication\facebooklikeapplication\bin\Debug\facebooklikeapplication.exe.config
+D:\C# Coding\facebooklikeapplication\facebooklikeapplication\bin\Debug\facebooklikeapplication.exe
+D:\C# Coding\facebooklikeapplication\facebooklikeapplication\bin\Debug\facebooklikeapplication.pdb
+D:\C# Coding\facebooklikeapplication\facebooklikeapplication\obj\Debug\facebooklikeapplication.csprojResolveAssemblyReference.cache
+D:\C# Coding\facebooklikeapplication\facebooklikeapplication\obj\Debug\facebooklikeapplication.exe
+D:\C# Coding\facebooklikeapplication\facebooklikeapplication\obj\Debug\facebooklikeapplication.pdb
+D:\Study\C# Coding\facebooklikeapplication\facebooklikeapplication\bin\Debug\facebooklikeapplication.exe.config
+D:\Study\C# Coding\facebooklikeapplication\facebooklikeapplication\obj\Debug\facebooklikeapplication.exe
+D:\Study\C# Coding\facebooklikeapplication\facebooklikeapplication\obj\Debug\facebooklikeapplication.pdb
