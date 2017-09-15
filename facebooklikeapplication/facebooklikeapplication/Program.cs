@@ -33,12 +33,12 @@ namespace facebooklikeapplication
 
                 else if (names.Count()==2)
                 {
-                    Console.WriteLine(names[0]+","+names[1]+" "+"Liked your picture");
+                    Console.WriteLine(names[0] + " " +"and" +" "+ names[1] + " " + "Liked your picture");
                 }
 
-                else if(names.Count()>3)
+                else if(names.Count()>= 3)
                 {
-                    Console.WriteLine("{0},{1} and {2} others liked your photo",names[0],names[1],names.Count()-1);
+                    Console.WriteLine("{0},{1} and {2} others liked your photo",names[0],names[1],names.Count()-2);
                 }
                   
             }
